@@ -1,4 +1,4 @@
-FROM alpine:3.4
+FROM hwdegroot/dind:3.4-alpine
 
 MAINTAINER Rik de Groot <hwdegroot@gmail.com>
 
