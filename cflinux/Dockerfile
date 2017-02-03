@@ -1,4 +1,4 @@
-FROM debian:jessie
+FROM cloudfoundry/cflinuxfs2
 
 MAINTAINER Rik de Groot <hwdegroot@gmail.com>
 
