@@ -3,7 +3,7 @@ FROM cloudfoundry/cflinuxfs2
 MAINTAINER Rik de Groot <hwdegroot@gmail.com>
 
 ENV JAVA_VERSION="8" \
-    JAVA_UPDATE="111" \
+    JAVA_UPDATE="112" \
     JAVA_BUILD="14" \
     JAVA_HOME="/var/lib/jvm/oracle-java" \
     PATH="$JAVA_HOME/bin:$PATH"
